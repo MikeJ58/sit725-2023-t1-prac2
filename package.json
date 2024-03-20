@@ -1,15 +1,17 @@
 {
-    "name": "nodejs-web-service",
-    "version": "1.0.0",
-    "description": "A simple Node.js web service using Express",
-    "main": "index.js",
-    "dependencies": {
-      "express": "^4.17.1"
-    },
-    "scripts": {
-      "start": "node index.js"
-    },
-    "author": "Your Name",
-    "license": "MIT"
+  "name": "sit725-2023-t1-prac2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
   }
+}
+
   
